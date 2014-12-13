@@ -1,0 +1,9 @@
+[package]
+
+name = "rust_tut"
+version = "0.0.1"
+authors = [ "claudiu" ]
+
+[[bin]]
+
+name = "hello"
